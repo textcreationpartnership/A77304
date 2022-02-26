@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal standard of King Charles the II. presented to the publick view of all true subiects, Presbyterians, independants, and others, both in the City of London, and the respective counties throughout the kingdom of England, and dominion of Wales. Written by the Lady Charlette, Countess of Bregy, that oracle of wit and eloquence, and most illustrious ornament of the Court of France. And now translated into English, for the pleasure and satisfaction of all his Majesties subjects that understand not French.</title>
+            <author>Brégy, Charlotte Saumaise de Chazan, comtesse de, 1619-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77304</idno>
+            <idno type="STC">Wing B4342</idno>
+            <idno type="STC">Thomason E1048_5</idno>
+            <idno type="STC">ESTC R208111</idno>
+            <idno type="EEBO-CITATION">99867102</idno>
+            <idno type="PROQUEST">99867102</idno>
+            <idno type="VID">168980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168980)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1048[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal standard of King Charles the II. presented to the publick view of all true subiects, Presbyterians, independants, and others, both in the City of London, and the respective counties throughout the kingdom of England, and dominion of Wales. Written by the Lady Charlette, Countess of Bregy, that oracle of wit and eloquence, and most illustrious ornament of the Court of France. And now translated into English, for the pleasure and satisfaction of all his Majesties subjects that understand not French.</title>
+                  <author>Brégy, Charlotte Saumaise de Chazan, comtesse de, 1619-1693.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168980:1" rendition="simple:additions"/>
+            <p>THE ROYAL STANDARD OF King Charles the II. PRESENTED To the Publick view of all true Subiects, <hi>Presbyterians, Independants,</hi> and others, both in the City of <hi>LONDON,</hi> and the Reſpective Counties throughout the Kingdom of <hi>ENGLAND,</hi> and Dominion of WALES. Written by the Lady <hi>Charlette,</hi> Counteſs of <hi>Bregy,</hi> that Oracle of Wit and Eloquence, and moſt Illuſtrious Ornament of the Court of <hi>France.</hi> And now Tranſlated into <hi>Engliſh,</hi> for the pleaſure and ſatisfaction of all his Majeſties Subjects that underſtand not <hi>French.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for G. HORTON. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168980:2"/>
+            <pb n="1" facs="tcp:168980:2"/>
+            <head>The Royal Standard OF King Charles the II. Drawn by the ſo much celebrated Pen of the Counteſſe of <hi>Bregy</hi> in <hi>France.</hi>
+            </head>
+            <p>IN this Picture of the valiant CHARLES, you ſhall at once behold (together with all the accompliſhments of a Worthy King, and a moſt deſerving Gentleman) the re<g ref="char:EOLhyphen"/>preſentation of the greateſt events that fortune can pro<g ref="char:EOLhyphen"/>duce; ſince that a Throne eſtabliſhed by a long ſucceſſion of An<g ref="char:EOLhyphen"/>ceſtors, and by a Government as juſt as gentle, hath been over<g ref="char:EOLhyphen"/>thrown before our eyes without any other cauſe to this great mutation, then the inconſtancy of all humain things; which is ſuch, that ordinarily a new evil is ſtill prefer'd before a wonted
+<pb n="2" facs="tcp:168980:3"/> good; although by the experience of all preceding Ages, the people might have learnt that they can hope neither for repoſe not happineſs, but under the Dominion of their lawful Prince.</p>
+            <p>He whoſe Image I now am graving is of ſo high bloud, that by right of ſucceſſion it renders him Maſter of three Kingdoms, of which one alone is capable to make a great KING; and the Poſ<g ref="char:EOLhyphen"/>ſeſſion of the three hath made ſo powerful Princes, that uſually they looked upon their neighbours onely to make alliances with them, and not to ſeek ſupport from them. The riches of their Countrey, the ſecurity and happineſſe they enjoy, leaving them nothing they deſire, and little to fear.</p>
+            <p>CHARLES was born in the midſt of all this glory, and was a long time amorouſly beheld as the hope of all his people, but a Conſtellation as powerful as cruel, having rais'd a ſtorm in the midſt of all his calm, did ſo confound the order of things, that their eyes being no longer able to ſuffer the brightneſs of the Sun; we ſaw on a ſudden a King without Subjects, and at laſt, (alas) Subjects without a King. Let us there conſtrain our me<g ref="char:EOLhyphen"/>mory, and not ſuffer it to repreſent unto us what it was that ren<g ref="char:EOLhyphen"/>dred CHARLES ſo early a Succeſſor to three great King<g ref="char:EOLhyphen"/>doms, but rather let us divert our thoughts by diſcourſing of the merit that makes him worthy to Poſſeſſe them.</p>
+            <p>And beginning with his Perſon, I muſt tell you it is like his ver<g ref="char:EOLhyphen"/>tues, Great and Royal: and that there is found in his looks ſomething ſo illuſtrious and ſo awful, that without knowing who He is, it procures Him from all that ſee him the reſpect of a King. His goodly Stature, his long black curled hair, his manly and be<g ref="char:EOLhyphen"/>coming motions, his Martial countenance, illuſtrated with thoſe equally charming and Commanding eyes, accompanied with ſuch a graceful Majeſty as ſhines upon his brow, tender him the man in the World of the beſt <hi>Mind,</hi> without being at all beholding to beauty for any of his advantages; and truly after having ſeen him, it is no more to be counted as a thing deſirable, ſince that without it, it is poſſible to be ſo amiable and ſo accompliſht as is this Prince.</p>
+            <pb n="3" facs="tcp:168980:3"/>
+            <p>Whoſe mind is Wiſe, Judicious and capable of al thats great and good; whoſe humour is gentle, civil and gallant; inſomuch, that ſome can boaſt to have often had a ſhare in His diſquiets. For His heart it is as Royal as His birth, which renders Him Libe<g ref="char:EOLhyphen"/>ral, Valiant, and ſo truly Generous, that I know not whether I ought more to admire His Juſtice, Gratitude and Munificence to<g ref="char:EOLhyphen"/>wards His <hi>ſuffering friends,</hi> or His Kingly Clemency, Confidence and Bounty towards His <hi>reconciled Enemies.</hi>
+            </p>
+            <p>The frequent expoſal of His life to the dangers He hath paſt, do ſufficiently convince that he loves it leſſe then glory, and hath hitherto imployed it only to render Himſelf now worthy to Compel fortune to reſtore unto Him His Kingdoms, of which ſhe had for ſo many years uſurped the Revenge with ſo much ſhame unto her ſelf, and ſo much Calamity to the people, that found themſelves ſubject to all the Changes of her Caprices.</p>
+            <p>Who all this time had been only conſtant in ſuffering, nothing to fall out favourable for CHARLES, whilſt He ſeems to have been unfortunate to no other end, but that He might be<g ref="char:EOLhyphen"/>come more Worthy to Command; ſince that turning His exile to His advantage, he hath learnt out of the different politicks of his allies all that might one day conduce to make Him obeyed through eſteem, and ſerv'd through love and inclination. How ſucceſſefully he hath labour'd to enrich Himſelf with all the qua<g ref="char:EOLhyphen"/>lities that ought to accompany a Great Prince, is evident by the Zeal is now ſeen in his Subjects to return to His obedience, who if he were not their King by <hi>Birth</hi> he ſhould be by <hi>Election.</hi>
+            </p>
+            <p>Heaven would not ſuffer that <hi>ſecond Cauſes</hi> ſhould have any ſhare in this Prodigious revolution, to the end that <hi>CHARLES</hi> might know it was only the hand of God that Crown'd Him; ſince He hath made him. Conquer without Arms, and in an inſtant given him the hearts of all his Subjects, making him find one ſo faithfull amongſt them as that illuſtrious Perſon, who hath re<g ref="char:EOLhyphen"/>deem'd the honour of his Nation, and made himſelf an example to the world, that behold him for ever Crown'd by the hands of glory, in a manner more rate and more worthy of envy then are the Diadems of Kings; for having carryed unto His, the auguſte Preſent of three Crownes and Scepters that heaven-ſends back unto Him; which will finde in <hi>CHARLES</hi> an arme ſo Wor<g ref="char:EOLhyphen"/>thy
+<pb n="4" facs="tcp:168980:4"/> to bear that glorious weight, that henceforth the Principall imployments of <hi>renown</hi> ſhall be to travell through all the Em<g ref="char:EOLhyphen"/>pires of the Earth, and inform them of the glorious Reign of <hi>CHARLES,</hi> and the great felicity of his people: Proclaiming to all the Univerſe, that never <hi>Throne</hi> was more Worthily fill'd then that in which <hi>CHARLES</hi> the ſecond is ſeated, and where<g ref="char:EOLhyphen"/>of His generous and invincible Brothers are become the Defen<g ref="char:EOLhyphen"/>ders.</p>
+            <div type="appendix">
+               <head>An Appendix to the Standard-Royall.</head>
+               <p>Having made a ſerious review of the precedent Rural lines of this moſt worthy Counteſs, the Illuſtrious Ornament of the Court of <hi>France,</hi> give me leave, in the next place, to make a diſ<g ref="char:EOLhyphen"/>covery of the obſequious wayes, of ſome of the grand impoſtors, and moſt Prodigious Oppreſſors that ever any age of the world produced; who made Reformation their pretence, to gratifie their own Avarice, introduced themſelves, and involved the peo<g ref="char:EOLhyphen"/>ple into a far more then Babyloniſh Tyranny, impoſing upon the Church and State, beyond all impudence or example. And if we look upon a party of the Scottiſh Nation, what there ſordid actions produced, by deceiving their Brethren, ſelling their King, betraying his Son, and by all their perfidie; but a ſlavery more then <hi>Egyptian,</hi> and an infamy as unparalled, as their treaſon and ingratitude.</p>
+               <p>Look nerer home on thoſe whom they had ingaged amongſt us here, and tell me if there be a Perſon of them left, that can ſhew me his prize, unleſſe it be that of his Sacriledg, which he, or his Nephews muſt certainly vomite up again: What is become of this ignorant and furious zeal, this pretence of an univerſall per<g ref="char:EOLhyphen"/>fection in the Religious and the Secular, after all that blood and Treaſure, Rapine and Injuſtice, which has been exhauſted, and per<g ref="char:EOLhyphen"/>petuated by theſe ſons of Thunder? Where is the King, whom they ſwear to make ſo glorious, but meant it in his <hi>Martyrdome?</hi> Where is the Claſſis, and the Aſſembly, the Lay-elder; all that geare of Scotiſh diſcipline, and the fine new Trinkets of Refor<g ref="char:EOLhyphen"/>mation? Were not all theſe raken out of their hand, while now they were in the height of their pride and triumph? And their
+<pb n="5" facs="tcp:168980:4"/> dull Generall made to ſerve the execution of their Sovereign, and then to be turnd of himſelf as a property no more of uſe to their deſignes? Their riches, and their ſtrength in which they truſted, and the Parliament which they even idoliz'd, in ſum, the prey they had contended for at the expence of ſo much ſin and damna<g ref="char:EOLhyphen"/>tion, ſeiz'd upon by thoſe very inſtruments, which they had raiſed to ſerve their inſatiable avarice, and prodigious diſloyalty. For ſo it pleaſed God to chaſtiſe their implacable perſecution of an excellent Prince, with a ſlavery under ſuch a <hi>Tyrant,</hi> as not be<g ref="char:EOLhyphen"/>ing contented to butcher even ſome upon the Scaffold, ſold di<g ref="char:EOLhyphen"/>vers of them for ſlaves, and others he exild into cruel baniſh<g ref="char:EOLhyphen"/>ment, without pretence of Law, or the leaſt commiſeration; that thoſe who before had no mercy on others, might find none themſelves; till upon ſome hope of their Repentance, and fu<g ref="char:EOLhyphen"/>ture moderation, it pleaſed God to put his hook into the noſtrils of that proud <hi>Leviathan,</hi> and ſend him to his place, after he had thus mortified the fury of the Presbyterians. For unleſſe God himſelf ſhould utter his voice from Heaven, <hi>yea, and that a migh<g ref="char:EOLhyphen"/>ty voyce,</hi> can there any thing in the world be more evident, then his indignation at thoſe wretches and bare fact Impoſtors, who, one after another, uſurped upon us, taking them off at the very point of aſpiring, and praecipitating the glory and ambition of theſe men, before thoſe that were, but now, their adoarers, and that had proſtituted their conſciences to ſerve their luſts? To call him the <hi>Moſes,</hi> the <hi>Man of God,</hi> the <hi>Joſhua,</hi> the <hi>Saviour</hi> of <hi>Iſrael;</hi> and after all this, to treat the <hi>Thing</hi> his ſon with ad<g ref="char:EOLhyphen"/>dreſſes no leſſe then blaſphemous, whoſe Father (as themſelves confeſs to be the moſt infamous Hypocrite and proſſegate Atheiſt of all the Uſurpers that ever any age produced) had made them his Vaſſalls, and would have intaild them ſo to his poſterity for ever?</p>
+               <p>But behold the ſcean is again changed, not by the Royall par<g ref="char:EOLhyphen"/>ty, the Common Enemy, or a forreign power; but by the deſpi<g ref="char:EOLhyphen"/>cable <hi>Rumpe</hi> of a Parliament, which that <hi>Mountebank</hi> had for<g ref="char:EOLhyphen"/>merly ſerv'd himſelf of, and had rais'd him to that pitch, and in<g ref="char:EOLhyphen"/>veſtiture: But ſee withall, how ſoon theſe triflers and puppets of policy are blown away, with all their pack of modells and childiſh <hi>Chimaeras.</hi>
+               </p>
+               <pb n="6" facs="tcp:168980:5"/>
+               <p>For the reſt, I deſpiſe to blot paper with a recitall of thoſe wretched <hi>Intirludes, Farces and Fantaſms,</hi> which appear'd in the ſeverall intervalls; becauſe they were nothing but the effects of an extream gyddineſs, and unparellel'd levity. Yet theſe were thoſe various deſpenſations and providences in their jour<g ref="char:EOLhyphen"/>ney to that <hi>holy land</hi> of purchaſes and profits, to which they have from time to time appeald for the juſtification of their pro<g ref="char:EOLhyphen"/>ceedings, whilſt they were, indeed, no other then the manifeſt Judgments of God upon their rebellion and their ambition: I ſay nothing of their hypocriticall faſts, and pretended numiliati<g ref="char:EOLhyphen"/>ons, previous to the ſucceeding plots, and ſuppoſitions Revela<g ref="char:EOLhyphen"/>tions, that <hi>the godly might fall into the hands of your Captains,</hi> becauſe they were bugbears, and became ridiculous even to the common people.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
